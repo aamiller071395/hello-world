@@ -1,2 +1,5 @@
 # hello-world
-short description 
+
+Hi! 
+
+I have a dog named Emma.
